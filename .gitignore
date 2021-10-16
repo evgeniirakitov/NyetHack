@@ -1,4 +1,4 @@
 /shelf/
-/workspace.xml
-../.idea
-../.gradle
+.idea/codeStyles/workspace.xml
+.idea
+.gradle
